@@ -17,7 +17,7 @@ hackster :-
 
 ________________________________________________
 
-//[![alt text](https://img.youtube.com/vi/DxuucFgY1B4/0.jpg)](https://youtu.be/DxuucFgY1B4)
+[![alt text](https://img.youtube.com/vi/DxuucFgY1B4/0.jpg)](https://youtu.be/DxuucFgY1B4)
 
 ![alt text](https://github.com/vishalsoniindia/Smart_Plug_using_wifi/blob/main/Smart_socket_circuit.png)
 
